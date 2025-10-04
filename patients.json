@@ -1,7 +1,1 @@
-{
-    "P001":{"name":"raj kumar","city":"mumbai","age":28,"gender":"female","height":1.65,"weight":90.0,"bmi":33.06,"verdict":"Obsese"},
-    "P002":{"name":"ramesh kumar","city":"pune","age":38,"gender":"male","height":1.67,"weight":80.0,"bmi":35.06,"verdict":"Overweight"},
-    "P003":{"name":"radhika kumari","city":"kanpur","age":25,"gender":"female","height":1.65,"weight":92.0,"bmi":31.16,"verdict":"underweight"},
-    "P004":{"name":"mohan verma","city":"banglore","age":35,"gender":"male","height":1.70,"weight":91.0,"bmi":32.05,"verdict":"Obsese"},
-    "P005":{"name":"Neha Sinha","city":"delhi","age":48,"gender":"female","height":1.65,"weight":93.0,"bmi":35.06,"verdict":"Overweight"}
-}
+{"P001": {"name": "raj kumar", "city": "mumbai", "age": 28, "gender": "female", "height": 1.65, "weight": 90.0, "bmi": 33.06, "verdict": "Obsese"}, "P002": {"name": "ramesh kumar", "city": "pune", "age": 38, "gender": "male", "height": 1.67, "weight": 80.0, "bmi": 35.06, "verdict": "Overweight"}, "P003": {"name": "radhika kumari", "city": "kanpur", "age": 25, "gender": "female", "height": 1.65, "weight": 92.0, "bmi": 31.16, "verdict": "underweight"}, "P004": {"name": "mohan verma", "city": "banglore", "age": 35, "gender": "male", "height": 1.7, "weight": 91.0, "bmi": 32.05, "verdict": "Obsese"}, "P005": {"name": "Neha Sinha", "city": "delhi", "age": 48, "gender": "female", "height": 1.65, "weight": 93.0, "bmi": 35.06, "verdict": "Overweight"}, "P006": {"name": "sita kumari", "city": "amritsar", "age": 19, "gender": "female", "height": 1.63, "weight": 50.0, "bmi": 18.82, "verdict": "Normal"}}
