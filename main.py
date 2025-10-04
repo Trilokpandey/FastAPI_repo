@@ -124,7 +124,7 @@ def create_patient(patient: Patient):
 
 
 @app.put("/edit/{patient_id}")
-def update_patient(patient_id :str, patient_update: PatientUpdate):
+def update_patient( patient_update: PatientUpdate,patient_id :str=Path(description="ID of patient in the DB",example="P001")):
     data = load_data()
 
     if patient_id not in data:
@@ -152,7 +152,7 @@ def update_patient(patient_id :str, patient_update: PatientUpdate):
     
 
 @app.delete("/delete/{patient_id}")
-def delete_patient(patient_id : str):
+def delete_patient(patient_id : str =Path(description="ID of patient in the DB",example="P001")):
 
     data = load_data()
 
